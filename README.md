@@ -21,3 +21,6 @@ Clone this repo into your Powershell directory path below, and tweak some option
 ~\OneDrive\Documents\PowerShell *(If you have your user account synced with OneDrive)*
 
 For more themes : https://ohmyposh.dev/docs/themes
+
+More automations will be added.
+Feel free to suggest any better automations. :smile:
