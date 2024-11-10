@@ -6,3 +6,5 @@ Clone this repo into your Powershell directory path below, and tweak some option
 ~\Documents\PowerShell
 
 ~\OneDrive\Documents\PowerShell *(If you have your user account synced with OneDrive)*
+
+For more themes : https://ohmyposh.dev/docs/themes
