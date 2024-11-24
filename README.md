@@ -23,4 +23,4 @@ Clone this repo into your Powershell directory path below, and tweak some option
 For more themes : https://ohmyposh.dev/docs/themes
 
 More automations will be added.
-Feel free to suggest any better automations. :smile:
+Feel free to suggest any better ones. :smile:
